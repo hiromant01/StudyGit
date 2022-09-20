@@ -147,4 +147,7 @@
   <data name="ControlGroup_7568372dba4940a5a1942f15a3977b37" xml:space="preserve">
     <value />
   </data>
+  <data name="Property_Index" xml:space="preserve">
+    <value>Индекс</value>
+  </data>
 </root>
